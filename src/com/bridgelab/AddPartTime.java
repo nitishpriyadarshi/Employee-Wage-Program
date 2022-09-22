@@ -9,7 +9,7 @@ public class AddPartTime {
 
         int empHrs = 0;
         int empWage = 0;
-        
+
 
         double empCheck = Math.floor(Math.random() * 10) % 2;
 
